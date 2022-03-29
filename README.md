@@ -17,6 +17,12 @@
 - You have likely approved token transactions by a third party. Revoke any approvals ASAP. One popular service for doing this is [revoke.cash](revoke.cash) Alternatively, you can try the Etherscan Token Approval checker which is currently in beta: https://etherscan.io/tokenapprovalchecker
 - You can disconnect your MetaMask from the site but it likely won't prevent any authorisations you have already given. 
 
+## Further Resources
+
+Prevention is always better than the cure. Once the dust has settled you may want to review the security guides below to protect yourself in future.
+
+- [MyCrypto Security Guide](https://blog.mycrypto.com/mycrypto-s-security-guide-for-dummies-and-smart-people-too)
+
 ## Disclaimer
 
-This is general advice which might help people in a challenging situation. Always do your own research. Prevention is always better than the cure. By taking any of the actions within this guide, you accept all responsibility for your own actions and do not hold any of the contributors to thie guide liable. 
+This is general advice which might help people in a challenging situation. Always do your own research. By taking any of the actions within this guide, you accept all responsibility for your own actions and do not hold any of the contributors to thie guide liable. 
